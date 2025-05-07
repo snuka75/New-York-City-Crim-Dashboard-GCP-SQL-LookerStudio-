@@ -38,3 +38,6 @@ Demographics: Victim vs suspect gender, age, and race comparisons
 Geo-mapping: Borough heatmaps and location-specific crime clusters
 Transit Safety: Incident breakdown by district and time of day
 Severity Analysis: Felony/Misdemeanor split by area and crime type
+
+
+LookerStudio Dashboard: https://lookerstudio.google.com/reporting/851067c9-4604-4af0-8b9c-b0bea9d62a33
